@@ -69,6 +69,61 @@ function Arrow({ external = false }: { external?: boolean }) {
   return <span className="arrow" aria-hidden="true">{external ? '↗' : '↓'}</span>;
 }
 
+function HeroCollage() {
+  return (
+    <div className="hero-collage" aria-label="Creative references">
+      <div className="collage-card ribbon-card">
+        <svg viewBox="0 0 420 120" role="img" aria-label="Hack Club ribbon">
+          <path d="M32 64c27-22 55-34 96-29 22 2 33 8 48 14 11 5 25 6 38 5 42-4 82-17 138 4 21 8 30 15 48 30l-20 24c-19-7-34-9-57-8-39 2-75 18-120 10-21-4-30-14-53-20-24-7-47-5-66 2L32 64Z" fill="#f4f3f1"/>
+          <text x="210" y="74" textAnchor="middle" fontSize="34" fontFamily="sans-serif" fontWeight="700" fill="#111111">HACK CLUB</text>
+        </svg>
+      </div>
+
+      <div className="collage-card mit-card" aria-label="MIT wordmark">
+        <div className="mit-mark">
+          <span className="mit-block tall" />
+          <span className="mit-block" />
+          <span className="mit-block short" />
+          <span className="mit-block gray" />
+        </div>
+        <div className="mit-copy">
+          <span>Massachusetts</span>
+          <span>Institute of</span>
+          <span>Technology</span>
+        </div>
+      </div>
+
+      <div className="collage-card cat-card" aria-label="Cat portrait">
+        <svg viewBox="0 0 260 240" role="img" aria-label="Cat with glasses">
+          <defs>
+            <linearGradient id="fur" x1="0" x2="1">
+              <stop offset="0%" stopColor="#d9d8d4" />
+              <stop offset="100%" stopColor="#b8b2ad" />
+            </linearGradient>
+          </defs>
+          <path d="M75 140c-18-40-29-70 18-98 47-28 111-23 144 20 31 40 15 116-39 128-45 10-87-9-123-50Z" fill="url(#fur)"/>
+          <path d="M110 55 96 20l31 27 12-28 13 31 30-25-12 39Z" fill="#d8d4d2"/>
+          <path d="M129 65h22v16h-22z" fill="#454545" opacity=".45"/>
+          <path d="M80 112c12-44 81-41 104 2-18 10-35 16-55 16-22 0-38-5-49-18Z" fill="#f8f8f7"/>
+          <g>
+            <rect x="46" y="82" width="64" height="48" rx="18" fill="#f8f8f8"/>
+            <rect x="140" y="82" width="64" height="48" rx="18" fill="#f8f8f8"/>
+            <circle cx="73" cy="108" r="18" fill="#111"/>
+            <circle cx="170" cy="108" r="18" fill="#111"/>
+            <circle cx="73" cy="108" r="7" fill="#efefef"/>
+            <circle cx="170" cy="108" r="7" fill="#efefef"/>
+          </g>
+          <path d="M120 126c-10 7-20 11-33 12 3 13 14 22 29 21 18-1 30-16 29-30-9 1-16 0-25-3Z" fill="#f1efed"/>
+          <path d="M98 136c12 10 21 14 34 14 12 0 22-4 33-14" fill="none" stroke="#2f2f2f" strokeWidth="4" strokeLinecap="round"/>
+          <path d="M100 144c10 9 25 14 40 14 15 0 30-6 42-16" fill="none" stroke="#808080" strokeWidth="3" strokeLinecap="round" opacity=".5"/>
+          <path d="M118 154c-10 7-17 18-22 31" fill="none" stroke="#5c5c5c" strokeWidth="5" strokeLinecap="round"/>
+          <path d="M160 154c11 10 18 20 23 30" fill="none" stroke="#5c5c5c" strokeWidth="5" strokeLinecap="round"/>
+        </svg>
+      </div>
+    </div>
+  );
+}
+
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [activeFilter, setActiveFilter] = useState('All');
@@ -102,6 +157,8 @@ function App() {
       </header>
 
       <main id="top">
+        <HeroCollage />
+
         <section className="hero section-pad">
           <div className="hero-copy">
             <p className="kicker"><span className="kicker-dot" /> Independent builder / researcher / feminist / activist</p>

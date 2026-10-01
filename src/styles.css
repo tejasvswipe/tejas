@@ -9,6 +9,17 @@ a { color: inherit; text-decoration: none; }
 button { font: inherit; }
 .site-shell { overflow: hidden; }
 .topline { display: flex; justify-content: space-between; padding: 13px 4.5vw; font: 10px var(--mono); letter-spacing: .09em; text-transform: uppercase; border-bottom: 1px solid var(--line); color: var(--muted); }
+.hero-collage { display: grid; grid-template-columns: 1.1fr 1.2fr .9fr; gap: 18px; padding: 0 4.5vw 18px; background: #f9f9f7; }
+.collage-card { display: flex; align-items: center; justify-content: center; min-height: 130px; border-radius: 18px; overflow: hidden; border: 1px solid rgba(17,17,17,.08); background: #f2f2ef; box-shadow: 0 12px 28px rgba(12, 18, 35, 0.06); }
+.ribbon-card svg, .cat-card svg { width: 100%; height: 100%; }
+.mit-card { display: flex; align-items: center; justify-content: center; gap: 16px; background: #f4f3f1; }
+.mit-mark { display: flex; align-items: end; gap: 8px; height: 105px; }
+.mit-block { display: block; width: 18px; height: 58px; background: #d71d2d; border-radius: 4px; }
+.mit-block.tall { height: 100px; }
+.mit-block.short { width: 16px; height: 42px; }
+.mit-block.gray { background: #b4b4b4; height: 76px; }
+.mit-copy { display: flex; flex-direction: column; gap: 2px; font: 700 17px var(--display); letter-spacing: -.06em; color: var(--blue-deep); line-height: .95; }
+.cat-card { background: #0d0d0f; }
 .nav-wrap { display: flex; justify-content: space-between; align-items: center; padding: 22px 4.5vw; position: relative; z-index: 5; }
 .brand { display: inline-flex; align-items: center; gap: 10px; font: 700 20px var(--display); letter-spacing: -.05em; }
 .brand-mark { display: inline-grid; place-items: center; width: 34px; height: 34px; color: white; border-radius: 10px 10px 10px 3px; background: var(--blue); font: 700 16px var(--mono); letter-spacing: -.12em; box-shadow: 4px 4px 0 var(--pink); }
