@@ -1,3 +1,4 @@
+/* theme */
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 :root { --blue: #3b5fbd; --blue-deep: #1f2b58; --ink: #171e3c; --pink: #f1c7d8; --pink-deep: #c96c98; --ice: #edf2fb; --lavender: #dfdef2; --cream: #fffaf6; --champagne: #f4e7d0; --mint: #d8ede4; --yellow: #f6dfaa; --coral: #e98e7b; --line: rgba(23, 30, 60, .15); --muted: #68718b; --display: 'Space Grotesk', sans-serif; --body: 'Manrope', sans-serif; --mono: 'DM Mono', monospace; }
