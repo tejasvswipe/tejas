@@ -430,3 +430,15 @@ main:has(.intro)::before{top:5rem;left:-3%}.imaginary span{font-family:Georgia,s
   body:after { background: var(--press-ink); }
   a:focus-visible,button:focus-visible,input:focus-visible { outline: 3px solid #a91a66; outline-offset: 3px; }
 }
+.logo-plate {display:flex;align-items:stretch;margin-top:3rem;border-block:3px solid #161619;background:#fffbf7}
+.logo-window {flex:1;min-width:0;overflow:hidden}
+.logo-track {display:flex;width:max-content;animation:marks-slide 25s linear infinite}
+.logo-set {width:max(78vw,600px);display:flex;align-items:stretch}
+.logo-set a {flex:1;display:flex;align-items:center;justify-content:center;gap:.9rem;padding:1rem;border-right:1px solid #c3bdc2;color:#161619;font:650 .9rem/1.15 system-ui;text-decoration:none}
+.logo-set img {width:80px;height:56px;object-fit:contain}
+.logo-set span {max-width:8em}
+.logo-plate button {background:#161619;color:white;border:0;padding:.65rem;font:inherit;cursor:pointer}
+.logo-track[data-paused=true],.logo-window:hover .logo-track {animation-play-state:paused}
+.logo-window:focus-within .logo-track {animation:none}
+@keyframes marks-slide {to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.logo-track{animation:none;width:100%}.logo-set{width:100%;flex-wrap:wrap}.logo-set:nth-child(2),.logo-plate button{display:none}}

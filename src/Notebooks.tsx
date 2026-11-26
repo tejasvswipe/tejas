@@ -184,6 +184,29 @@ export function Project({ name }: { name: string }) {
     <Projects />
   );
 }
+const marks = [
+  {src: "mit.svg", name: "MIT", context: "MIT POV OS project", href: "#project/mit-pov-webos"},
+  {src: "hack-club.svg", name: "Hack Club", context: "Stardance portfolio", href: "#project/tejas"},
+  {src: "revolt.webp", name: "ReVolt AI", context: "My company", href: "#revolt"},
+];
+
+function LogoPlate() {
+  const [paused, setPaused] = useState(false);
+  return <section className="logo-plate" aria-label="Project logos">
+    <div className="logo-window">
+      <div className="logo-track" data-paused={paused}>
+        {[0, 1].map(copy => <div className="logo-set" key={copy} aria-hidden={copy === 1 || undefined}>
+          {marks.map(mark => <a key={mark.name} href={mark.href} tabIndex={copy ? -1 : 0}>
+            <img src={'/marks/' + mark.src} alt={mark.name}/>
+            <span>{mark.context}</span>
+          </a>)}
+        </div>)}
+      </div>
+    </div>
+    <button type="button" onClick={() => setPaused(!paused)} aria-label={paused ? 'Play logo animation' : 'Pause logo animation'}>{paused ? 'Play' : 'Pause'}</button>
+  </section>;
+}
+
 export function Home() {
   return (
     <>
@@ -205,6 +228,7 @@ export function Home() {
         </div>
         <Geometry />
       </section>
+      <LogoPlate />
       <section className="paper">
         <small>FROM MY SCREENSHOTS</small>
         <h2>On my screen</h2>
