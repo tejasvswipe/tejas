@@ -167,7 +167,7 @@ function Resume() {
           Cup.
         </li>
         <li>
-          Write articles and enjoy debating, physics and Olympiad mathematics.
+          Write articles and enjoy debate, physics and Olympiad mathematics. Read widely in political thought, including Tagore on nationalism, socialist texts and a biography of Gandhi.
         </li>
       </ul>
     </>

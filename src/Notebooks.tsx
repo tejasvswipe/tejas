@@ -234,10 +234,13 @@ export function Home() {
       </div>
       <div className="paper">
         <small>WRITING &amp; IDEAS</small>
-        <h2>In my margins</h2>
+        <h2>Politics on my bookshelf</h2>
         <p>
           I write articles and describe my outlook as liberal ironist and
-          Marxist.
+          Marxist. I read widely about nationalism, socialism and Indian political
+          history. My reading includes Rabindranath Tagore’s <cite>Nationalism</cite>,
+          Marx and Engels’s <cite>The Communist Manifesto</cite>, <cite>The ABC of
+          Socialism</cite>, and a biography of Mahatma Gandhi.
         </p>
       </div>
     </>
