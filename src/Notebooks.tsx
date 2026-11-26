@@ -190,8 +190,10 @@ export function Home() {
       <section className="intro">
         <div>
           <small>TEJASV SAHU / FIELD NOTES</small>
-          <h1 className="imaginary"><span>√−1</span> am<br/><em>not average.</em></h1>
-          <p className="math-margin"><b>√−1 = i ≠ x̄</b><br/>The mean of real numbers stays real. I like the imaginary axis.</p>
+          <h1 className="axis-title">Off the<br/><em>real axis.</em></h1>
+          <p className="axis-equation" aria-label="i equals the square root of negative one and differs from every real-valued mean">
+            i = √−1 ≠ x̄ <span>（x̄ ∈ ℝ）</span>
+          </p>
           <p className="lede">
             I’m Tejas. I’m in Class 10, I draw circuit boards, and I like
             questions you can test with a model or a sheet of graph paper.
