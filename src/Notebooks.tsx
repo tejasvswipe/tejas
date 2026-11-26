@@ -190,11 +190,8 @@ export function Home() {
       <section className="intro">
         <div>
           <small>TEJASV SAHU / FIELD NOTES</small>
-          <h1>
-            Physics, parts
-            <br />
-            &amp; <em>proofs.</em>
-          </h1>
+          <h1 className="imaginary"><span>√−1</span> am<br/><em>not average.</em></h1>
+          <p className="math-margin"><b>√−1 = i ≠ x̄</b><br/>The mean of real numbers stays real. I like the imaginary axis.</p>
           <p className="lede">
             I’m Tejas. I’m in Class 10, I draw circuit boards, and I like
             questions you can test with a model or a sheet of graph paper.
@@ -207,20 +204,14 @@ export function Home() {
         <Geometry />
       </section>
       <section className="paper">
-        <small>ON THE WORKBENCH</small>
-        <h2>Keys, clocks and moving parts</h2>
-        <div className="catalog">
-          {["aswm-macropad", "dawnkey", "tars-lite-humanoid"].map((n) => {
-            const r = repos.find((x) => x.name === n)!;
-            return (
-              <article key={n}>
-                <h3>
-                  <a href={"#project/" + n}>{n}</a>
-                </h3>
-                <p>{r.summary}</p>
-              </article>
-            );
-          })}
+        <small>FROM MY SCREENSHOTS</small>
+        <h2>On my screen</h2>
+        <div className="screen-wall">
+          <figure><a href="#project/aswm-macropad"><img loading="lazy" src="/screen-notes/aswm-macropad.webp" alt="Sixteen keys and a rotary encoder in the enclosure render."/><span>Rizzpad // 16</span></a><figcaption>Sixteen keys and a rotary encoder in the enclosure render.</figcaption></figure>
+          <figure><a href="#project/dawnkey"><img loading="lazy" src="/screen-notes/dawnkey.webp" alt="Keypad alarm clock with its battery pod beside the case."/><span>Dawnkey</span></a><figcaption>Keypad alarm clock with its battery pod beside the case.</figcaption></figure>
+          <figure><a href="#project/piano"><img loading="lazy" src="/screen-notes/piano.webp" alt="A playable octave mapped to the computer keyboard."/><span>Browser piano</span></a><figcaption>A playable octave mapped to the computer keyboard.</figcaption></figure>
+          <figure><a href="#project/mit-pov-webos"><img loading="lazy" src="/screen-notes/mit-pov-webos.webp" alt="The opening screen of the simulated desktop."/><span>MIT POV OS</span></a><figcaption>The opening screen of the simulated desktop.</figcaption></figure>
+          <figure><a href="#project/neo-note"><img loading="lazy" src="/screen-notes/neo-note.webp" alt="The journal homepage with its pastel orbital illustration."/><span>Neonote</span></a><figcaption>The journal homepage with its pastel orbital illustration.</figcaption></figure>
         </div>
       </section>
       <div className="paper">
