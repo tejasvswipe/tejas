@@ -1,0 +1,959 @@
+[
+  {
+    "name": "aswm-macropad",
+    "language": "Python",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/aswm-macropad",
+    "summary": "A 16-key RP2040 macropad with a rotary encoder. The repository includes a custom PCB, firmware and a printable enclosure.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/aswm-macropad/blob/main/README.md"
+      },
+      {
+        "name": "assets",
+        "url": "https://github.com/tejasvswipe/aswm-macropad/tree/main/assets"
+      },
+      {
+        "name": "CAD",
+        "url": "https://github.com/tejasvswipe/aswm-macropad/tree/main/CAD"
+      },
+      {
+        "name": "Firmware",
+        "url": "https://github.com/tejasvswipe/aswm-macropad/tree/main/Firmware"
+      },
+      {
+        "name": "host",
+        "url": "https://github.com/tejasvswipe/aswm-macropad/tree/main/host"
+      },
+      {
+        "name": "PCB",
+        "url": "https://github.com/tejasvswipe/aswm-macropad/tree/main/PCB"
+      },
+      {
+        "name": "BOM.csv",
+        "url": "https://github.com/tejasvswipe/aswm-macropad/blob/main/BOM.csv"
+      }
+    ]
+  },
+  {
+    "name": "cnc-plotter-for-hindi",
+    "language": "C",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi",
+    "summary": "A Hindi-writing CNC plotter project, with a gallery of the mechanical parts and printable enclosure pieces.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/blob/main/README.md"
+      },
+      {
+        "name": "bom cart screen shots",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/tree/main/bom%20cart%20screen%20shots"
+      },
+      {
+        "name": "cad",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/tree/main/cad"
+      },
+      {
+        "name": "CNC_Plotter_Firmware",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/tree/main/CNC_Plotter_Firmware"
+      },
+      {
+        "name": "docs",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/tree/main/docs"
+      },
+      {
+        "name": "pcb",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/tree/main/pcb"
+      },
+      {
+        "name": "step files",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/tree/main/step%20files"
+      },
+      {
+        "name": "Bill_of_Materials.csv",
+        "url": "https://github.com/tejasvswipe/cnc-plotter-for-hindi/blob/main/Bill_of_Materials.csv"
+      }
+    ]
+  },
+  {
+    "name": "cool-buddy",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/cool-buddy",
+    "summary": "Hardware project journal and bill of materials.",
+    "files": [
+      {
+        "name": "BOM.md",
+        "url": "https://github.com/tejasvswipe/cool-buddy/blob/main/BOM.md"
+      },
+      {
+        "name": "JOURNAL.md",
+        "url": "https://github.com/tejasvswipe/cool-buddy/blob/main/JOURNAL.md"
+      }
+    ]
+  },
+  {
+    "name": "dawnkey",
+    "language": "Python",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/dawnkey",
+    "summary": "A BLARE alarm clock built around a twelve-key MX keypad, TFT display and DS3231 real-time clock.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/dawnkey/blob/main/README.md"
+      },
+      {
+        "name": "CAD",
+        "url": "https://github.com/tejasvswipe/dawnkey/tree/main/CAD"
+      },
+      {
+        "name": "Docs",
+        "url": "https://github.com/tejasvswipe/dawnkey/tree/main/Docs"
+      },
+      {
+        "name": "Firmware",
+        "url": "https://github.com/tejasvswipe/dawnkey/tree/main/Firmware"
+      },
+      {
+        "name": "PCB",
+        "url": "https://github.com/tejasvswipe/dawnkey/tree/main/PCB"
+      },
+      {
+        "name": "Production",
+        "url": "https://github.com/tejasvswipe/dawnkey/tree/main/Production"
+      }
+    ]
+  },
+  {
+    "name": "drone-ezz",
+    "language": "C",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/drone-ezz",
+    "summary": "An ESP32 drone PCB reference. The README credits the original board design to Hassan Mohamed Mahmoud.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/drone-ezz/blob/main/README.md"
+      },
+      {
+        "name": "Firmware",
+        "url": "https://github.com/tejasvswipe/drone-ezz/tree/main/Firmware"
+      },
+      {
+        "name": "PCB",
+        "url": "https://github.com/tejasvswipe/drone-ezz/tree/main/PCB"
+      },
+      {
+        "name": "ESP-Drone.apk",
+        "url": "https://github.com/tejasvswipe/drone-ezz/blob/main/ESP-Drone.apk"
+      },
+      {
+        "name": "PCB_Top.png",
+        "url": "https://github.com/tejasvswipe/drone-ezz/blob/main/PCB_Top.png"
+      },
+      {
+        "name": "Schematic_ESP32-Drone.jpg",
+        "url": "https://github.com/tejasvswipe/drone-ezz/blob/main/Schematic_ESP32-Drone.jpg"
+      }
+    ]
+  },
+  {
+    "name": "event-horizon",
+    "language": "JavaScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/event-horizon",
+    "summary": "A space-themed new-tab dashboard featuring NASA astronomy imagery.",
+    "files": [
+      {
+        "name": "readme.md",
+        "url": "https://github.com/tejasvswipe/event-horizon/blob/master/readme.md"
+      },
+      {
+        "name": "event-horizon",
+        "url": "https://github.com/tejasvswipe/event-horizon/tree/master/event-horizon"
+      },
+      {
+        "name": "public",
+        "url": "https://github.com/tejasvswipe/event-horizon/tree/master/public"
+      },
+      {
+        "name": "src",
+        "url": "https://github.com/tejasvswipe/event-horizon/tree/master/src"
+      },
+      {
+        "name": "Dockerfile",
+        "url": "https://github.com/tejasvswipe/event-horizon/blob/master/Dockerfile"
+      },
+      {
+        "name": "index.html",
+        "url": "https://github.com/tejasvswipe/event-horizon/blob/master/index.html"
+      },
+      {
+        "name": "info-about-code.py",
+        "url": "https://github.com/tejasvswipe/event-horizon/blob/master/info-about-code.py"
+      },
+      {
+        "name": "package.json",
+        "url": "https://github.com/tejasvswipe/event-horizon/blob/master/package.json"
+      }
+    ]
+  },
+  {
+    "name": "ewaste-revolt-ai",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/ewaste-revolt-ai",
+    "summary": "A ReVolt e-waste prototype with a web client, server and database schema.",
+    "files": [
+      {
+        "name": "client",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/tree/master/client"
+      },
+      {
+        "name": "drizzle",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/tree/master/drizzle"
+      },
+      {
+        "name": "patches",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/tree/master/patches"
+      },
+      {
+        "name": "server",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/tree/master/server"
+      },
+      {
+        "name": "shared",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/tree/master/shared"
+      },
+      {
+        "name": "components.json",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/blob/master/components.json"
+      },
+      {
+        "name": "drizzle.config.ts",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/blob/master/drizzle.config.ts"
+      },
+      {
+        "name": "ideas.md",
+        "url": "https://github.com/tejasvswipe/ewaste-revolt-ai/blob/master/ideas.md"
+      }
+    ]
+  },
+  {
+    "name": "food-cop.ai",
+    "language": "Python",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/food-cop.ai",
+    "summary": "A food-label reader using Llama, Groq and FastAPI to examine ingredients against additive references.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/food-cop.ai/blob/main/README.md"
+      },
+      {
+        "name": "__pycache__",
+        "url": "https://github.com/tejasvswipe/food-cop.ai/tree/main/__pycache__"
+      },
+      {
+        "name": "server",
+        "url": "https://github.com/tejasvswipe/food-cop.ai/tree/main/server"
+      },
+      {
+        "name": "Dockerfile",
+        "url": "https://github.com/tejasvswipe/food-cop.ai/blob/main/Dockerfile"
+      },
+      {
+        "name": "index.html",
+        "url": "https://github.com/tejasvswipe/food-cop.ai/blob/main/index.html"
+      },
+      {
+        "name": "inference.py",
+        "url": "https://github.com/tejasvswipe/food-cop.ai/blob/main/inference.py"
+      },
+      {
+        "name": "license",
+        "url": "https://github.com/tejasvswipe/food-cop.ai/blob/main/license"
+      }
+    ]
+  },
+  {
+    "name": "fuck-the-boards",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/fuck-the-boards",
+    "summary": "A board-exam web project with React, Express, tRPC and Drizzle.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/blob/main/README.md"
+      },
+      {
+        "name": "client",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/tree/main/client"
+      },
+      {
+        "name": "drizzle",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/tree/main/drizzle"
+      },
+      {
+        "name": "patches",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/tree/main/patches"
+      },
+      {
+        "name": "server",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/tree/main/server"
+      },
+      {
+        "name": "shared",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/tree/main/shared"
+      },
+      {
+        "name": "app.config.ts",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/blob/main/app.config.ts"
+      },
+      {
+        "name": "components.json",
+        "url": "https://github.com/tejasvswipe/fuck-the-boards/blob/main/components.json"
+      }
+    ]
+  },
+  {
+    "name": "kitty-all-in-one-pad",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/kitty-all-in-one-pad",
+    "summary": "The repository for Kitty All-in-One Pad.",
+    "files": []
+  },
+  {
+    "name": "mit-pov-webos",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/mit-pov-webos",
+    "summary": "A simulated desktop with draggable windows, a terminal, transcript and trophy case.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/blob/main/README.md"
+      },
+      {
+        "name": "client",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/tree/main/client"
+      },
+      {
+        "name": "patches",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/tree/main/patches"
+      },
+      {
+        "name": "server",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/tree/main/server"
+      },
+      {
+        "name": "shared",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/tree/main/shared"
+      },
+      {
+        "name": "components.json",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/blob/main/components.json"
+      },
+      {
+        "name": "meow.py",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/blob/main/meow.py"
+      },
+      {
+        "name": "package.json",
+        "url": "https://github.com/tejasvswipe/mit-pov-webos/blob/main/package.json"
+      }
+    ]
+  },
+  {
+    "name": "neo-note",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/neo-note",
+    "summary": "An editorial blog built with Next.js and MongoDB for the Hack Club Stardance blog mission.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/neo-note/blob/main/README.md"
+      },
+      {
+        "name": "app",
+        "url": "https://github.com/tejasvswipe/neo-note/tree/main/app"
+      },
+      {
+        "name": "components",
+        "url": "https://github.com/tejasvswipe/neo-note/tree/main/components"
+      },
+      {
+        "name": "lib",
+        "url": "https://github.com/tejasvswipe/neo-note/tree/main/lib"
+      },
+      {
+        "name": "public",
+        "url": "https://github.com/tejasvswipe/neo-note/tree/main/public"
+      },
+      {
+        "name": "next-env.d.ts",
+        "url": "https://github.com/tejasvswipe/neo-note/blob/main/next-env.d.ts"
+      },
+      {
+        "name": "next.config.ts",
+        "url": "https://github.com/tejasvswipe/neo-note/blob/main/next.config.ts"
+      },
+      {
+        "name": "package.json",
+        "url": "https://github.com/tejasvswipe/neo-note/blob/main/package.json"
+      }
+    ]
+  },
+  {
+    "name": "open-manager",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/open-manager",
+    "summary": "OpenMosAI, a local-first marketing workroom for research, writing and human review.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/open-manager/blob/main/README.md"
+      },
+      {
+        "name": "client",
+        "url": "https://github.com/tejasvswipe/open-manager/tree/main/client"
+      },
+      {
+        "name": "drizzle",
+        "url": "https://github.com/tejasvswipe/open-manager/tree/main/drizzle"
+      },
+      {
+        "name": "patches",
+        "url": "https://github.com/tejasvswipe/open-manager/tree/main/patches"
+      },
+      {
+        "name": "server",
+        "url": "https://github.com/tejasvswipe/open-manager/tree/main/server"
+      },
+      {
+        "name": "shared",
+        "url": "https://github.com/tejasvswipe/open-manager/tree/main/shared"
+      },
+      {
+        "name": "app.config.ts",
+        "url": "https://github.com/tejasvswipe/open-manager/blob/main/app.config.ts"
+      },
+      {
+        "name": "components.json",
+        "url": "https://github.com/tejasvswipe/open-manager/blob/main/components.json"
+      }
+    ]
+  },
+  {
+    "name": "piano",
+    "language": "HTML",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/piano",
+    "summary": "A browser piano with mouse, touch and keyboard controls and octave switching.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/piano/blob/main/README.md"
+      },
+      {
+        "name": "index (1).html",
+        "url": "https://github.com/tejasvswipe/piano/blob/main/index%20(1).html"
+      },
+      {
+        "name": "index (2).html",
+        "url": "https://github.com/tejasvswipe/piano/blob/main/index%20(2).html"
+      },
+      {
+        "name": "piano..md",
+        "url": "https://github.com/tejasvswipe/piano/blob/main/piano..md"
+      },
+      {
+        "name": "uri.txt",
+        "url": "https://github.com/tejasvswipe/piano/blob/main/uri.txt"
+      }
+    ]
+  },
+  {
+    "name": "Piezoelectric-drum",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/Piezoelectric-drum",
+    "summary": "The project repository for a piezoelectric drum.",
+    "files": []
+  },
+  {
+    "name": "raspberry-pi",
+    "language": "OpenSCAD",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/raspberry-pi",
+    "summary": "A printable Raspberry Pi 5 enclosure accommodating a seven-inch touchscreen, camera, audio and storage.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/blob/main/README.md"
+      },
+      {
+        "name": "cad",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/tree/main/cad"
+      },
+      {
+        "name": "docs",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/tree/main/docs"
+      },
+      {
+        "name": "pcb",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/tree/main/pcb"
+      },
+      {
+        "name": "print",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/tree/main/print"
+      },
+      {
+        "name": "software",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/tree/main/software"
+      },
+      {
+        "name": "JOURNAL.md",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/blob/main/JOURNAL.md"
+      },
+      {
+        "name": "RPi5_Touch_Case_BOM.csv",
+        "url": "https://github.com/tejasvswipe/raspberry-pi/blob/main/RPi5_Touch_Case_BOM.csv"
+      }
+    ]
+  },
+  {
+    "name": "raspberry-pi-deskbot",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/raspberry-pi-deskbot",
+    "summary": "A mobile desk robot design with a motor drive, speaker and motion tracking.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/raspberry-pi-deskbot/blob/main/README.md"
+      },
+      {
+        "name": "cad",
+        "url": "https://github.com/tejasvswipe/raspberry-pi-deskbot/tree/main/cad"
+      },
+      {
+        "name": "docs",
+        "url": "https://github.com/tejasvswipe/raspberry-pi-deskbot/tree/main/docs"
+      },
+      {
+        "name": "working-thesis",
+        "url": "https://github.com/tejasvswipe/raspberry-pi-deskbot/tree/main/working-thesis"
+      },
+      {
+        "name": "bom-v3 - bom-v3.csv",
+        "url": "https://github.com/tejasvswipe/raspberry-pi-deskbot/blob/main/bom-v3%20-%20bom-v3.csv"
+      }
+    ]
+  },
+  {
+    "name": "readme-ai",
+    "language": null,
+    "fork": true,
+    "html_url": "https://github.com/tejasvswipe/readme-ai",
+    "summary": "Software for generating repository documentation from project structure, dependencies and entry points.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/readme-ai/blob/master/README.md"
+      },
+      {
+        "name": "src",
+        "url": "https://github.com/tejasvswipe/readme-ai/tree/master/src"
+      },
+      {
+        "name": "tests",
+        "url": "https://github.com/tejasvswipe/readme-ai/tree/master/tests"
+      },
+      {
+        "name": "CHANGELOG.md",
+        "url": "https://github.com/tejasvswipe/readme-ai/blob/master/CHANGELOG.md"
+      },
+      {
+        "name": "CONTRIBUTING.md",
+        "url": "https://github.com/tejasvswipe/readme-ai/blob/master/CONTRIBUTING.md"
+      },
+      {
+        "name": "LICENSE",
+        "url": "https://github.com/tejasvswipe/readme-ai/blob/master/LICENSE"
+      },
+      {
+        "name": "Makefile",
+        "url": "https://github.com/tejasvswipe/readme-ai/blob/master/Makefile"
+      },
+      {
+        "name": "pyproject.toml",
+        "url": "https://github.com/tejasvswipe/readme-ai/blob/master/pyproject.toml"
+      }
+    ]
+  },
+  {
+    "name": "ReVolt-AI",
+    "language": "HTML",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/ReVolt-AI",
+    "summary": "A Next.js implementation of ReVolt AI with app routes, reusable components and project data.",
+    "files": [
+      {
+        "name": "app",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/tree/main/app"
+      },
+      {
+        "name": "components",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/tree/main/components"
+      },
+      {
+        "name": "data",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/tree/main/data"
+      },
+      {
+        "name": "lib",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/tree/main/lib"
+      },
+      {
+        "name": "public",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/tree/main/public"
+      },
+      {
+        "name": "next-env.d.ts",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/blob/main/next-env.d.ts"
+      },
+      {
+        "name": "next.config.ts",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/blob/main/next.config.ts"
+      },
+      {
+        "name": "package.json",
+        "url": "https://github.com/tejasvswipe/ReVolt-AI/blob/main/package.json"
+      }
+    ]
+  },
+  {
+    "name": "ReVolt-Aishirley",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/ReVolt-Aishirley",
+    "summary": "A ReVolt circular-economy platform centered on smart collection kiosks and digital material passports.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/blob/main/README.md"
+      },
+      {
+        "name": "public",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/tree/main/public"
+      },
+      {
+        "name": "src",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/tree/main/src"
+      },
+      {
+        "name": "components.json",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/blob/main/components.json"
+      },
+      {
+        "name": "next-env.d.ts",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/blob/main/next-env.d.ts"
+      },
+      {
+        "name": "next.config.ts",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/blob/main/next.config.ts"
+      },
+      {
+        "name": "package.json",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/blob/main/package.json"
+      },
+      {
+        "name": "postcss.config.mjs",
+        "url": "https://github.com/tejasvswipe/ReVolt-Aishirley/blob/main/postcss.config.mjs"
+      }
+    ]
+  },
+  {
+    "name": "revolt-ewaste",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/revolt-ewaste",
+    "summary": "A separate ReVolt web application with API, client, migration files and Vercel deployment notes.",
+    "files": [
+      {
+        "name": "api",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/tree/main/api"
+      },
+      {
+        "name": "client",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/tree/main/client"
+      },
+      {
+        "name": "drizzle",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/tree/main/drizzle"
+      },
+      {
+        "name": "patches",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/tree/main/patches"
+      },
+      {
+        "name": "server",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/tree/main/server"
+      },
+      {
+        "name": "shared",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/tree/main/shared"
+      },
+      {
+        "name": "supabase",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/tree/main/supabase"
+      },
+      {
+        "name": "components.json",
+        "url": "https://github.com/tejasvswipe/revolt-ewaste/blob/main/components.json"
+      }
+    ]
+  },
+  {
+    "name": "suck",
+    "language": "HTML",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/suck",
+    "summary": "A caf\u00c3\u00a9 website project with HTML, CSS and JavaScript.",
+    "files": [
+      {
+        "name": "b3-cafe-website",
+        "url": "https://github.com/tejasvswipe/suck/tree/main/b3-cafe-website"
+      },
+      {
+        "name": "index.html",
+        "url": "https://github.com/tejasvswipe/suck/blob/main/index.html"
+      },
+      {
+        "name": "script.js",
+        "url": "https://github.com/tejasvswipe/suck/blob/main/script.js"
+      },
+      {
+        "name": "styles.css",
+        "url": "https://github.com/tejasvswipe/suck/blob/main/styles.css"
+      }
+    ]
+  },
+  {
+    "name": "superconductvity-nickelate-research",
+    "language": "Jupyter Notebook",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/superconductvity-nickelate-research",
+    "summary": "A reproducibility archive for spatial percolation experiments and a separate layered tight-binding notebook.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/blob/main/README.md"
+      },
+      {
+        "name": "__pycache__",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/tree/main/__pycache__"
+      },
+      {
+        "name": "original_reproduction",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/tree/main/original_reproduction"
+      },
+      {
+        "name": "additional_literature_sources.json",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/blob/main/additional_literature_sources.json"
+      },
+      {
+        "name": "append_literature_sources.py",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/blob/main/append_literature_sources.py"
+      },
+      {
+        "name": "audit_original.py",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/blob/main/audit_original.py"
+      },
+      {
+        "name": "audit_results.json",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/blob/main/audit_results.json"
+      },
+      {
+        "name": "audit_run.log",
+        "url": "https://github.com/tejasvswipe/superconductvity-nickelate-research/blob/main/audit_run.log"
+      }
+    ]
+  },
+  {
+    "name": "supoclip",
+    "language": "Python",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/supoclip",
+    "summary": "A video-clipping application with caption controls and a clip dashboard.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/supoclip/blob/main/README.md"
+      },
+      {
+        "name": "assets",
+        "url": "https://github.com/tejasvswipe/supoclip/tree/main/assets"
+      },
+      {
+        "name": "backend",
+        "url": "https://github.com/tejasvswipe/supoclip/tree/main/backend"
+      },
+      {
+        "name": "deploy",
+        "url": "https://github.com/tejasvswipe/supoclip/tree/main/deploy"
+      },
+      {
+        "name": "docs",
+        "url": "https://github.com/tejasvswipe/supoclip/tree/main/docs"
+      },
+      {
+        "name": "frontend",
+        "url": "https://github.com/tejasvswipe/supoclip/tree/main/frontend"
+      },
+      {
+        "name": "mcp",
+        "url": "https://github.com/tejasvswipe/supoclip/tree/main/mcp"
+      },
+      {
+        "name": "observability",
+        "url": "https://github.com/tejasvswipe/supoclip/tree/main/observability"
+      }
+    ]
+  },
+  {
+    "name": "tars-lite-humanoid",
+    "language": "Python",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/tars-lite-humanoid",
+    "summary": "A TARS-inspired robot prototype with distinct PCB, mechanical CAD, firmware and documentation directories.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/tars-lite-humanoid/blob/master/README.md"
+      },
+      {
+        "name": "CAD",
+        "url": "https://github.com/tejasvswipe/tars-lite-humanoid/tree/master/CAD"
+      },
+      {
+        "name": "Docs",
+        "url": "https://github.com/tejasvswipe/tars-lite-humanoid/tree/master/Docs"
+      },
+      {
+        "name": "Firmware",
+        "url": "https://github.com/tejasvswipe/tars-lite-humanoid/tree/master/Firmware"
+      },
+      {
+        "name": "PCB",
+        "url": "https://github.com/tejasvswipe/tars-lite-humanoid/tree/master/PCB"
+      }
+    ]
+  },
+  {
+    "name": "tejas",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/tejas",
+    "summary": "This portfolio, originally built for Stardance and Hack Club.",
+    "files": [
+      {
+        "name": "README.md",
+        "url": "https://github.com/tejasvswipe/tejas/blob/main/README.md"
+      },
+      {
+        "name": "public",
+        "url": "https://github.com/tejasvswipe/tejas/tree/main/public"
+      },
+      {
+        "name": "src",
+        "url": "https://github.com/tejasvswipe/tejas/tree/main/src"
+      },
+      {
+        "name": "app.config.ts",
+        "url": "https://github.com/tejasvswipe/tejas/blob/main/app.config.ts"
+      },
+      {
+        "name": "index.html",
+        "url": "https://github.com/tejasvswipe/tejas/blob/main/index.html"
+      },
+      {
+        "name": "package.json",
+        "url": "https://github.com/tejasvswipe/tejas/blob/main/package.json"
+      },
+      {
+        "name": "plan.md",
+        "url": "https://github.com/tejasvswipe/tejas/blob/main/plan.md"
+      },
+      {
+        "name": "tsconfig.app.json",
+        "url": "https://github.com/tejasvswipe/tejas/blob/main/tsconfig.app.json"
+      }
+    ]
+  },
+  {
+    "name": "tidy-up",
+    "language": "TypeScript",
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/tidy-up",
+    "summary": "A focus companion with timers and short reset routines.",
+    "files": [
+      {
+        "name": "README.MD",
+        "url": "https://github.com/tejasvswipe/tidy-up/blob/main/README.MD"
+      },
+      {
+        "name": "readme.md",
+        "url": "https://github.com/tejasvswipe/tidy-up/blob/main/readme.md"
+      },
+      {
+        "name": "client",
+        "url": "https://github.com/tejasvswipe/tidy-up/tree/main/client"
+      },
+      {
+        "name": "patches",
+        "url": "https://github.com/tejasvswipe/tidy-up/tree/main/patches"
+      },
+      {
+        "name": "server",
+        "url": "https://github.com/tejasvswipe/tidy-up/tree/main/server"
+      },
+      {
+        "name": "shared",
+        "url": "https://github.com/tejasvswipe/tidy-up/tree/main/shared"
+      },
+      {
+        "name": "components.json",
+        "url": "https://github.com/tejasvswipe/tidy-up/blob/main/components.json"
+      },
+      {
+        "name": "fuckyou.py",
+        "url": "https://github.com/tejasvswipe/tidy-up/blob/main/fuckyou.py"
+      }
+    ]
+  },
+  {
+    "name": "to-do",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/to-do",
+    "summary": "The source repository for To-do.",
+    "files": []
+  },
+  {
+    "name": "to-do-eink",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/tejasvswipe/to-do-eink",
+    "summary": "A separate to-do project for e-ink.",
+    "files": []
+  }
+]
